@@ -1,18 +1,20 @@
 ### Hi there 👋
 
-My name is **Jan**. I am a developer from near Karlsruhe, Germany. I'm currently working on @75team as a Font-End engineer.  
-I have some works with **JavaScript**, **Node.js** and **SVG**, contact me if you have same interesting or some questions!
+My name is **Jan**. I am a software engineer from near Karlsruhe, Germany. 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=janschoelch&show_icons=true)
+I'm currently working at [Objektkultur](https://www.objektkultur.de/) as a full-stack engineer and project lead.
+
+### 🔭 What am I working on?
+* Building components and apps (for | with) [Flutter](https://flutter.dev)
+* Satisfying customer needs using [ASP.NET Core](https://github.com/dotnet/aspnetcore) and [Xamarin](https://github.com/xamarin)
+* Helping students to learn new things about mobile development
 
 ### 📫 Find Me on Social Media
+* [Twitter](https://twitter.com/tschaens1)
+* [LinkedIn](https://de.linkedin.com/in/jan-schölch-924527187)
 
-
-### 🌱 I am new to this
-
-### 🔭 What do I want to do?
-
-### Let's connect :coffee:
+### 🌱 Stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=janschoelch&show_icons=true)
 
 
 <!--
